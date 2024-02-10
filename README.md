@@ -1,3 +1,7 @@
+Live at:  https://next-two-phi.vercel.app
+- **username**: user@nextmail.com
+- **password**: 123456
+
 # Dashboard App 📊
 
 Welcome to the Dashboard App repository! This simple dashboard app provides a comprehensive view of users' invoice details. Manage your invoices effortlessly with intuitive features and a user-friendly interface.
